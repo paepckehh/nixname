@@ -1,2 +1,2 @@
 # nixname
-nix based headless filtering name server
+nix flake based headless filtering name server
